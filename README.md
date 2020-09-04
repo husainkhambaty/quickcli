@@ -1,0 +1,2 @@
+# quickcli
+Quick CLI shortcuts
